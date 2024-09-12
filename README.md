@@ -1,6 +1,6 @@
 Hi there 👋
 
-I'm Chethankumar G,
+I'm Chethan Gowda,
 React Developer passionate about building beautiful and responsive user interfaces. I specialize in modern front-end technologies, focusing on creating dynamic and high-performance web applications. My expertise includes:
 
 
