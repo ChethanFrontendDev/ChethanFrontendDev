@@ -19,7 +19,10 @@ React Developer passionate about building beautiful and responsive user interfac
 🧪 Jest for testing and ensuring code quality.
 
 
+
 I'm always exploring new design patterns and improving performance optimization. Let's connect if you'd like to collaborate or talk about the latest in frontend development!
+
+📫 Reach out to me: [connect@ChethanGowda.dev](mailto:Chethankumar.dev@gmail.com)
 
 
 <!--
