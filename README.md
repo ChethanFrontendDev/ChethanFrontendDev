@@ -3,6 +3,7 @@ I'm Chethankumar G,
 React Developer passionate about building beautiful and responsive user interfaces. I specialize in modern front-end technologies, focusing on creating dynamic and high-performance web applications. My expertise includes:
 
 🌟 React.js for building reusable and efficient components.
+
 ⚛️ Next.js for server-side rendering and building scalable web apps.
 🎨 CSS, TailwindCSS, and Material UI for clean, responsive designs.
 ⚡ JavaScript & TypeScript for fast and reliable development.
