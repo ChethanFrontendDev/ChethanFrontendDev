@@ -14,8 +14,6 @@ React Developer passionate about building beautiful and responsive user interfac
 
 🔄 React Ecosystem (Redux, React Router, Hooks) for state management and smooth navigation.
 
-🚀 Frontend tools like Vite and CRA for optimized development workflows.
-
 🧪 Jest for testing and ensuring code quality.
 
 
